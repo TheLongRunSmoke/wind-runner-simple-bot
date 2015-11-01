@@ -1,4 +1,4 @@
-wind-runner-simple-bot
+# wind-runner-simple-bot
 ======================
 Простой бот для андроид-версии игры LINE Wind Runner.
 
@@ -20,3 +20,5 @@ wind-runner-simple-bot
 6. Profit!)
 
 По всем вопросам можно обращатся ко мне thelongrunsmoke@gmail.com.
+
+Версия устарела.
